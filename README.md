@@ -1,5 +1,5 @@
 # Bagging-Algorithm
-Project 2 from my graduate Data Mining course. Instructions are included below.
+Project 2 from my graduate Data Mining course. Instructions are included below. The final submission can be found in Project_2.ipynb
 
 In this project you will apply bagging to implement an ensemble learning approach for solving a (binary) classification problem.
 The training data set is given in Fig 3.36(the table labeled “training”)on page 189of the textbook(2ndedition). The base classifier 
